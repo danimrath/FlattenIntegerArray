@@ -1,0 +1,8 @@
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\ArrayFlatten\TestArrayDepth\obj\Debug\TestArrayDepth.csprojResolveAssemblyReference.cache
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\ArrayFlatten\TestArrayDepth\bin\Debug\TestArrayDepth.dll
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\ArrayFlatten\TestArrayDepth\bin\Debug\TestArrayDepth.pdb
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\ArrayFlatten\TestArrayDepth\bin\Debug\ArrayFlatten.dll
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\ArrayFlatten\TestArrayDepth\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\ArrayFlatten\TestArrayDepth\bin\Debug\ArrayFlatten.pdb
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\ArrayFlatten\TestArrayDepth\obj\Debug\TestArrayDepth.dll
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\ArrayFlatten\TestArrayDepth\obj\Debug\TestArrayDepth.pdb

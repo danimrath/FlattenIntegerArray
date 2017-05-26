@@ -1,0 +1,5 @@
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\ArrayFlatten\ArrayFlatten\obj\Debug\ArrayFlatten.csprojResolveAssemblyReference.cache
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\ArrayFlatten\ArrayFlatten\bin\Debug\ArrayFlatten.dll
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\ArrayFlatten\ArrayFlatten\bin\Debug\ArrayFlatten.pdb
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\ArrayFlatten\ArrayFlatten\obj\Debug\ArrayFlatten.dll
+H:\Users\Anthony\Documents\Visual Studio 2015\Projects\ArrayFlatten\ArrayFlatten\obj\Debug\ArrayFlatten.pdb
